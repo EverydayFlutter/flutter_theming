@@ -1,16 +1,16 @@
-# flutter_theming
+# Flutter Theming Tutorial
 
-A new Flutter project.
+Welcome to our Flutter Theming tutorial, a part of **Everyday Flutter** series. Dive into the world of cohesive app appearances and give your app the look it deserves!
+
+## Overview
+
+Flutter offers a powerful theming capability using the `ThemeData` class. In this tutorial, we explore creating a basic dark theme and apply it across multiple screens.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Set up a new Flutter project:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter create flutter_theming_tutorial
+cd flutter_theming_tutorial
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
